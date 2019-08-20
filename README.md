@@ -1,2 +1,2 @@
-# Install_With_PackageManager
-while developing we need to install various supporting software's. we have amazing package managers to install in linux like yum and apt-get. Chocolatey is a software package manager for windows which helps in installing software with ease.
+# Chocolatey: Install_With_PackageManager
+Software Development involves installing of various supporting softwares like servers, build tools,IDE etc. Installing software in Linux OS has become very easy with package managers like yum and apt-get. <b>Chocolatey</b> is a software package manager for windows which helps in installing software with ease.
